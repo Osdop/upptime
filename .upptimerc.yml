@@ -36,6 +36,50 @@ status-website:
       href: /
     - title: Sitio Web Osdop
       href: https://www.osdop.org.ar
+      
+i18n:
+	activeIncidents: Incidente Activo
+	allSystemsOperational: Todos los sistemas se encuentan operativos
+	incidentReport: "Incidente #$NUMBER report →"
+	activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+	incidentTitle: Incidente $NUMBER Detalle
+	incidentDetails: Detalle de Incidente
+	incidentFixed: Arreglado
+	incidentOngoing: Saliente
+	incidentOpenedAt: Abierto el
+	incidentClosedAt: Cerrado el
+	incidentSubscribe: Subscribete para Actualizaciones
+	incidentViewOnGitHub: Ver en GitHub
+	incidentCommentSummary: Publicado el $DATE por $AUTHOR
+	incidentBack: ← Volver a todos los incidentes
+	pastIncidents: Incidentes Pasados
+	pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+	liveStatus: Estado Actual
+	overallUptime: "Porcentaje de Actividad: $UPTIME"
+	overallUptimeTitle: Porcentaje de Actividad
+	averageResponseTime: "Tiempo de respuesta: $TIMEms"
+	averageResponseTimeTitle: Tiempo de respuesta
+	sevelDayResponseTime: 7-dias tiempo de respuesta
+	responseTimeMs: Tiempo de respuesta (ms)
+	up: Activo
+	down: InactivoDown
+	degraded: Degradado
+	ms: ms
+	loading: Cargando
+	errorTitle: Ocurrio un error
+	errorIntro: Ocurrio un error intentando obtener el detalle del ultimo estado.
+	errorText: Puede intentarlo nuevamente en unos minutos.
+	errorHome: Ir a la pagina principal
+	pastScheduledMaintenance: Fin del Mantenimiento Programado
+	scheduledMaintenance: Mantenimiento Programado
+	scheduledMaintenanceSummaryStarted: Comenzo el $DATE por $DURATION minutos
+	scheduledMaintenanceSummaryStarts: Comienza el $DATE for $DURATION minutes
+	startedAt: Comenzo a
+	startsAt: Comienza a
+	duration: Duracion
+	durationMin: $DURATION minutos
+	incidentCompleted: Completada
+	incidentScheduled: Programada
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
