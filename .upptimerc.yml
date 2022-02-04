@@ -15,9 +15,9 @@ sites:
     url: https://vpn.osdop.org.ar
     method: GET
   - name: Autogestion
-    url: https://autogestion.osdop.org.ar
+    url: https://autogestion.osdop.org.ar/Account/LogOn
+    maxResponseTime: 60000
     method: GET
-    maxResponseTime: 90
   - name: Correo Electronico
     check: "tcp-ping"
     url: mail.osdop.org.ar
