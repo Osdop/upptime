@@ -40,7 +40,7 @@ status-website:
 i18n:
     activeIncidents: Incidente Activo
     allSystemsOperational: Todos los sistemas se encuentan operativos
-    incidentReport: "Incidente #$NUMBER report →"
+    incidentReport: "Incidente #$NUMBER reportado →"
     activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
     incidentTitle: Incidente $NUMBER Detalle
     incidentDetails: Detalle de Incidente
@@ -62,7 +62,7 @@ i18n:
     sevelDayResponseTime: 7-dias tiempo de respuesta
     responseTimeMs: Tiempo de respuesta (ms)
     up: Activo
-    down: InactivoDown
+    down: Inactivo
     degraded: Degradado
     ms: ms
     loading: Cargando
