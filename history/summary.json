@@ -40,9 +40,9 @@
     "url": "https://vpn.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/vpn.osdop.org.ar",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 755,
     "timeMonth": 807,
     "timeYear": 807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "Autogestion",
@@ -59,14 +61,14 @@
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
     "status": "up",
-    "uptime": "94.07%",
+    "uptime": "94.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.48%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "94.07%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "94.18%",
     "time": 828,
     "timeDay": 714,
-    "timeWeek": 831,
+    "timeWeek": 834,
     "timeMonth": 828,
     "timeYear": 828,
     "dailyMinutesDown": {
