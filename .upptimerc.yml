@@ -16,7 +16,7 @@ sites:
     method: GET
   - name: Autogestion
     url: https://autogestion.osdop.org.ar/Account/LogOn
-    maxResponseTime: 60000
+    maxResponseTime: 120000
     method: GET
   - name: Correo Electronico
     check: "tcp-ping"
