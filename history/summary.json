@@ -58,7 +58,7 @@
     "url": "https://autogestion.osdop.org.ar/Account/LogOn",
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
     "uptimeDay": "25.44%",
     "uptimeWeek": "88.85%",
