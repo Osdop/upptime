@@ -18,6 +18,8 @@ sites:
     url: https://autogestion.osdop.org.ar/Account/LogOn
     maxResponseTime: 100000
     method: GET
+    expectedStatusCodes:
+      - 401
   - name: Correo Electronico
     check: "tcp-ping"
     url: mail.osdop.org.ar
