@@ -15,7 +15,7 @@ sites:
     url: https://vpn.osdop.org.ar
     method: GET
   - name: Autogestion
-    url: https://autogestion.osdop.org.ar/Account/LogOn
+    url: https://autogestion.osdop.org.ar
   - name: Correo Electronico
     check: "tcp-ping"
     url: mail.osdop.org.ar
