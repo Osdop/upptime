@@ -58,20 +58,18 @@
     "url": "https://autogestion.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 871,
-    "timeDay": 894,
-    "timeWeek": 956,
+    "timeDay": 892,
+    "timeWeek": 955,
     "timeMonth": 905,
     "timeYear": 871,
-    "dailyMinutesDown": {
-      "2022-04-06": 42
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Correo Electronico",
