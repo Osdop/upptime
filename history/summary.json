@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 204,
-    "timeWeek": 193,
+    "timeWeek": 194,
     "timeMonth": 192,
     "timeYear": 186,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1713,
     "timeDay": 1701,
-    "timeWeek": 1723,
+    "timeWeek": 1756,
     "timeMonth": 1757,
     "timeYear": 1713,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1066,
     "timeDay": 1003,
-    "timeWeek": 1117,
+    "timeWeek": 1121,
     "timeMonth": 1102,
     "timeYear": 1066,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 817,
     "timeDay": 854,
-    "timeWeek": 858,
+    "timeWeek": 848,
     "timeMonth": 846,
     "timeYear": 817,
     "dailyMinutesDown": {}
@@ -76,17 +76,19 @@
     "url": "https://autogestion.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 872,
     "timeDay": 869,
-    "timeWeek": 877,
+    "timeWeek": 879,
     "timeMonth": 905,
     "timeYear": 872,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-08": 0
+    }
   }
 ]
