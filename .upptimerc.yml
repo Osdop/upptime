@@ -21,6 +21,8 @@ sites:
   - name: Autogestion
     url: https://autogestion.osdop.org.ar
     method: GET
+    expectedStatusCodes:
+      - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
