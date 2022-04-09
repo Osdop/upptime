@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/www.osdop.org.ar",
     "slug": "sitio-web",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1716,
     "timeDay": 1770,
     "timeWeek": 1763,
     "timeMonth": 1753,
     "timeYear": 1716,
-    "dailyMinutesDown": {
-      "2022-04-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Servicios",
@@ -78,17 +76,19 @@
     "url": "https://autogestion.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 877,
     "timeDay": 1193,
     "timeWeek": 922,
     "timeMonth": 916,
     "timeYear": 877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   }
 ]
