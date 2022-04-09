@@ -22,9 +22,9 @@
     "url": "https://www.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/www.osdop.org.ar",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1797,
     "timeMonth": 1762,
     "timeYear": 1719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   },
   {
     "name": "Servicios",
