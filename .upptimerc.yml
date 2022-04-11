@@ -6,9 +6,6 @@ sites:
   - name: Autogestion
     url: https://autogestion.osdop.org.ar
     method: GET
-    expectedStatusCodes:
-      - 0
-      - 200
   - name: Correo Electronico
     check: "tcp-ping"
     url: mail.osdop.org.ar
@@ -24,10 +21,6 @@ sites:
   - name: Vpn
     url: https://vpn.osdop.org.ar
     method: GET
-  - name: Web Services
-    check: "tcp-ping"
-    url: aplic.osdop.org.ar
-    port: 4268
   
 
 status-website:
