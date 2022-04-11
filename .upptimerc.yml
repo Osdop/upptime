@@ -3,6 +3,12 @@ owner: Osdop # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
+- name: Autogestion
+    url: https://autogestion.osdop.org.ar
+    method: GET
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: Correo Electronico
     check: "tcp-ping"
     url: mail.osdop.org.ar
@@ -18,12 +24,11 @@ sites:
   - name: Vpn
     url: https://vpn.osdop.org.ar
     method: GET
-  - name: Autogestion
-    url: https://autogestion.osdop.org.ar
-    method: GET
-    expectedStatusCodes:
-      - 0
-      - 200
+  - name: Web Services
+    check: "tcp-ping"
+    url: aplic.osdop.org.ar
+    port: 4268
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
