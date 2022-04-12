@@ -4,20 +4,18 @@
     "url": "https://autogestion.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 878,
-    "timeDay": 857,
-    "timeWeek": 920,
+    "timeDay": 859,
+    "timeWeek": 919,
     "timeMonth": 917,
     "timeYear": 878,
-    "dailyMinutesDown": {
-      "2022-04-12": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Correo Electronico",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 193,
+    "time": 188,
+    "timeDay": 194,
     "timeWeek": 199,
     "timeMonth": 194,
-    "timeYear": 187,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1709,
-    "timeDay": 1510,
-    "timeWeek": 1696,
-    "timeMonth": 1674,
-    "timeYear": 1709,
+    "time": 1707,
+    "timeDay": 1512,
+    "timeWeek": 1686,
+    "timeMonth": 1671,
+    "timeYear": 1707,
     "dailyMinutesDown": {}
   },
   {
@@ -68,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 1057,
     "timeDay": 996,
-    "timeWeek": 1013,
-    "timeMonth": 1087,
+    "timeWeek": 1011,
+    "timeMonth": 1085,
     "timeYear": 1057,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 817,
-    "timeDay": 835,
-    "timeWeek": 826,
-    "timeMonth": 841,
+    "timeDay": 829,
+    "timeWeek": 824,
+    "timeMonth": 840,
     "timeYear": 817,
     "dailyMinutesDown": {}
   }
