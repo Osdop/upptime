@@ -32,8 +32,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://www.osdop.org.ar/wp-content/uploads/2021/08/favicon-io.png
   name: Osdop TI Status
-  introTitle: "**OSDOP TI Status** es un sitio para monitoreo de servicios informaticos de la organizacion."
-  introMessage: Se veran reflejados los estados de algunos de los servicios informaticos publicados. - Powered by GitHub and Upptime
+  introTitle: "**OSDOP TI Status** es un sitio creado para el monitoreo de los servicios informaticos de la organizacion."
+  introMessage: Aqui podra conocer los estados, en tiempo real, de nuestros servicios informaticos mas importantes. - Powered by GitHub and Upptime
   navbar:
     - title: Osdop TI Status
       href: /
