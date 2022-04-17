@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 886,
-    "timeDay": 856,
-    "timeWeek": 957,
+    "timeDay": 833,
+    "timeWeek": 958,
     "timeMonth": 933,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2022-04-16": 27
+      "2022-04-16": 17
     }
   },
   {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 198,
-    "timeWeek": 204,
+    "timeDay": 180,
+    "timeWeek": 201,
     "timeMonth": 196,
     "timeYear": 189,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1704,
-    "timeDay": 1620,
-    "timeWeek": 1642,
-    "timeMonth": 1668,
-    "timeYear": 1704,
+    "time": 1727,
+    "timeDay": 3908,
+    "timeWeek": 1781,
+    "timeMonth": 1716,
+    "timeYear": 1727,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 1003,
-    "timeWeek": 1007,
-    "timeMonth": 1078,
-    "timeYear": 1055,
+    "time": 1053,
+    "timeDay": 908,
+    "timeWeek": 1008,
+    "timeMonth": 1072,
+    "timeYear": 1053,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 819,
-    "timeDay": 821,
-    "timeWeek": 831,
-    "timeMonth": 841,
+    "timeDay": 869,
+    "timeWeek": 843,
+    "timeMonth": 842,
     "timeYear": 819,
     "dailyMinutesDown": {}
   }
