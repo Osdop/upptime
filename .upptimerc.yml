@@ -7,6 +7,7 @@ sites:
     url: http://autogestion.osdop.org.ar
     method: GET
     maxResponseTime: 60000
+    __dangerous__insecure: true
   - name: Correo Electronico
     check: "tcp-ping"
     url: mail.osdop.org.ar
