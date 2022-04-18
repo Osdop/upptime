@@ -3,11 +3,6 @@ owner: Osdop # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Autogestion
-    url: http://autogestion.osdop.org.ar
-    method: GET
-    maxResponseTime: 60000
-    __dangerous__insecure: true
   - name: Correo Electronico
     check: "tcp-ping"
     url: mail.osdop.org.ar
