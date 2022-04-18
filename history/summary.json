@@ -4,19 +4,19 @@
     "url": "https://autogestion.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/autogestion.osdop.org.ar",
     "slug": "autogestion",
-    "status": "down",
-    "uptime": "94.07%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "94.07%",
+    "status": "up",
+    "uptime": "90.92%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "90.92%",
     "time": 889,
-    "timeDay": 995,
-    "timeWeek": 986,
+    "timeDay": 981,
+    "timeWeek": 981,
     "timeMonth": 938,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2022-04-18": 21
+      "2022-04-18": 34
     }
   },
   {
