@@ -35,7 +35,7 @@ status-website:
       href: /
     - title: Sitio Web Osdop
       href: https://www.osdop.org.ar
-      
+            
 i18n:
     activeIncidents: Incidente Activo
     allSystemsOperational: Todos los sistemas se encuentan operativos
