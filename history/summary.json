@@ -40,9 +40,9 @@
     "url": "https://servicios.osdop.org.ar",
     "icon": "https://favicons.githubusercontent.com/servicios.osdop.org.ar",
     "slug": "servicios",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 980,
     "timeMonth": 1032,
     "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   },
   {
     "name": "Vpn",
