@@ -63,9 +63,9 @@
     "url": "https://vpn.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.osdop.org.ar.ico",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
@@ -75,6 +75,7 @@
     "timeMonth": 802,
     "timeYear": 813,
     "dailyMinutesDown": {
+      "2022-10-25": 0,
       "2022-10-08": 92,
       "2022-09-21": 20
     }
