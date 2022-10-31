@@ -16,6 +16,7 @@ sites:
     expectedStatusCodes:
       - 401
       - 302
+      - 0
   - name: Vpn
     url: https://vpn.osdop.org.ar
     method: GET
