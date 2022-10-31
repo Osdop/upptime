@@ -20,6 +20,8 @@ sites:
   - name: Vpn
     url: https://vpn.osdop.org.ar
     method: GET
+    expectedStatusCodes:
+      - 0
   
 
 status-website:
