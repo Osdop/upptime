@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 223,
-    "timeDay": 256,
-    "timeWeek": 267,
-    "timeMonth": 249,
+    "timeDay": 311,
+    "timeWeek": 269,
+    "timeMonth": 251,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2022-10-08": 140
@@ -26,18 +26,16 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1706,
-    "timeDay": 1715,
-    "timeWeek": 1824,
-    "timeMonth": 1734,
+    "timeDay": 1963,
+    "timeWeek": 1777,
+    "timeMonth": 1750,
     "timeYear": 1706,
-    "dailyMinutesDown": {
-      "2022-12-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Servicios",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1018,
-    "timeDay": 1089,
-    "timeWeek": 1076,
-    "timeMonth": 1000,
+    "timeDay": 1063,
+    "timeWeek": 1106,
+    "timeMonth": 993,
     "timeYear": 1018,
     "dailyMinutesDown": {
       "2022-10-31": 17,
@@ -72,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 815,
-    "timeDay": 873,
-    "timeWeek": 889,
-    "timeMonth": 819,
-    "timeYear": 815,
+    "time": 816,
+    "timeDay": 913,
+    "timeWeek": 916,
+    "timeMonth": 820,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2022-10-31": 16,
       "2022-10-08": 92,
