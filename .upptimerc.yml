@@ -24,11 +24,10 @@ sites:
       - 0
       - 200
   - name: WebService
-    url: https://aplic.osdop.org.ar:4269
-    method: GET
-    expectedStatusCodes:
-      - 0
-      - 200      
+    url: https://aplic.osdop.org.ar
+    port: 4269
+    method: POST
+   
   
 
 status-website:
