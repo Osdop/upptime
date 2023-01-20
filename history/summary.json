@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1724,
-    "timeDay": 2141,
-    "timeWeek": 1852,
-    "timeMonth": 1741,
-    "timeYear": 1724,
+    "time": 1725,
+    "timeDay": 2116,
+    "timeWeek": 1867,
+    "timeMonth": 1749,
+    "timeYear": 1725,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1012,
-    "timeDay": 1024,
-    "timeWeek": 984,
-    "timeMonth": 965,
+    "timeDay": 1035,
+    "timeWeek": 993,
+    "timeMonth": 969,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2022-10-31": 17,
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 815,
-    "timeDay": 770,
-    "timeWeek": 804,
-    "timeMonth": 800,
-    "timeYear": 815,
+    "time": 817,
+    "timeDay": 959,
+    "timeWeek": 886,
+    "timeMonth": 826,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2022-10-31": 16,
       "2022-10-08": 92,
@@ -87,18 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aplic.osdop.org.ar.ico",
     "slug": "web-service",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 922,
     "timeDay": 922,
     "timeWeek": 922,
     "timeMonth": 922,
     "timeYear": 922,
-    "dailyMinutesDown": {
-      "2023-01-20": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
