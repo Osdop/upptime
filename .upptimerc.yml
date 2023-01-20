@@ -24,9 +24,8 @@ sites:
       - 0
       - 200
   - name: WebService
-    url: https://aplic.osdop.org.ar
-    port: 4269
-    method: POST
+    url: https://aplic.osdop.org.ar:4269
+    method: GET
    
   
 
