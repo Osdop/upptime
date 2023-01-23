@@ -24,7 +24,7 @@ sites:
       - 0
       - 200
   - name: WebService
-    url: https://aplic.osdop.org.ar:4269
+    url: https://ws.osdop.org.ar
     method: GET
     expectedStatusCodes:
       - 0
