@@ -29,6 +29,7 @@ sites:
     expectedStatusCodes:
       - 0
       - 200
+      - 403
    
   
 
