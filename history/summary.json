@@ -87,18 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws.osdop.org.ar.ico",
     "slug": "web-service",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 980,
     "timeWeek": 958,
     "timeMonth": 958,
     "timeYear": 958,
-    "dailyMinutesDown": {
-      "2023-01-24": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
