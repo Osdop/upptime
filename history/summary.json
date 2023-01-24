@@ -86,17 +86,19 @@
     "url": "https://ws.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ws.osdop.org.ar.ico",
     "slug": "web-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 1165,
-    "timeWeek": 981,
-    "timeMonth": 981,
-    "timeYear": 981,
-    "dailyMinutesDown": {}
+    "time": 961,
+    "timeDay": 1002,
+    "timeWeek": 961,
+    "timeMonth": 961,
+    "timeYear": 961,
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   }
 ]
