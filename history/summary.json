@@ -24,19 +24,19 @@
     "url": "https://www.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.osdop.org.ar.ico",
     "slug": "sitio-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1741,
-    "timeDay": 1436,
-    "timeWeek": 1880,
-    "timeMonth": 1914,
-    "timeYear": 1741,
+    "time": 1742,
+    "timeDay": 1756,
+    "timeWeek": 1898,
+    "timeMonth": 1918,
+    "timeYear": 1742,
     "dailyMinutesDown": {
-      "2023-02-10": 0
+      "2023-02-10": 16
     }
   },
   {
