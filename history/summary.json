@@ -24,9 +24,9 @@
     "url": "https://www.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.osdop.org.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1957,
     "timeYear": 1746,
     "dailyMinutesDown": {
+      "2023-02-13": 0,
       "2023-02-10": 16
     }
   },
