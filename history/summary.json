@@ -6,9 +6,9 @@
     "slug": "correo-electronico",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 241,
     "timeDay": 230,
@@ -16,7 +16,7 @@
     "timeMonth": 249,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-08-16": 8,
+      "2023-08-16": 0,
       "2022-10-08": 140
     }
   },
