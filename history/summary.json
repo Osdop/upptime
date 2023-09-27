@@ -4,10 +4,10 @@
     "url": "mail.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "correo-electronico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 246,
@@ -16,6 +16,7 @@
     "timeMonth": 256,
     "timeYear": 252,
     "dailyMinutesDown": {
+      "2023-09-27": 1,
       "2023-08-16": 19,
       "2022-10-08": 140
     }
@@ -27,13 +28,13 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "59.37%",
     "uptimeMonth": "90.54%",
     "uptimeYear": "99.21%",
     "time": 2043,
-    "timeDay": 3980,
-    "timeWeek": 5202,
+    "timeDay": 2007,
+    "timeWeek": 4790,
     "timeMonth": 3817,
     "timeYear": 2160,
     "dailyMinutesDown": {
