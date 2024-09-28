@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 141,
+    "timeDay": 162,
     "timeWeek": 190,
-    "timeMonth": 163,
-    "timeYear": 188,
+    "timeMonth": 164,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.osdop.org.ar.ico",
     "slug": "sitio-web",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2168,
-    "timeDay": 1797,
-    "timeWeek": 3990,
-    "timeMonth": 2557,
-    "timeYear": 1956,
+    "time": 2167,
+    "timeDay": 1559,
+    "timeWeek": 4009,
+    "timeMonth": 2535,
+    "timeYear": 1954,
     "dailyMinutesDown": {
       "2024-09-22": 16
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 997,
-    "timeDay": 919,
-    "timeWeek": 987,
-    "timeMonth": 970,
-    "timeYear": 1003,
+    "timeDay": 962,
+    "timeWeek": 1001,
+    "timeMonth": 973,
+    "timeYear": 1004,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 802,
-    "timeDay": 688,
-    "timeWeek": 742,
-    "timeMonth": 763,
+    "timeDay": 797,
+    "timeWeek": 754,
+    "timeMonth": 767,
     "timeYear": 803,
     "dailyMinutesDown": {}
   },
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 976,
-    "timeDay": 845,
-    "timeWeek": 1252,
-    "timeMonth": 1023,
+    "timeDay": 873,
+    "timeWeek": 1240,
+    "timeMonth": 1021,
     "timeYear": 980,
     "dailyMinutesDown": {}
   }
