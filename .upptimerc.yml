@@ -18,7 +18,7 @@ sites:
       - 302
       - 0
   - name: Vpn
-    url: https://vpn.osdop.org.ar/remote/login?lang=en
+    url: https://vpn.osdop.org.ar/
     __dangerous__insecure: true
     method: GET
     expectedStatusCodes:
