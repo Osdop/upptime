@@ -4,19 +4,19 @@
     "url": "mail.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "correo-electronico",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 152,
-    "timeWeek": 157,
-    "timeMonth": 162,
+    "timeDay": 151,
+    "timeWeek": 154,
+    "timeMonth": 161,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-08-23": 5
+      "2026-08-23": 15
     }
   },
   {
