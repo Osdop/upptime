@@ -4,21 +4,21 @@
     "url": "mail.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "correo-electronico",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.92%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.96%",
     "time": 170,
-    "timeDay": 144,
+    "timeDay": 155,
     "timeWeek": 165,
-    "timeMonth": 180,
+    "timeMonth": 181,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2026-09-03": 59,
       "2026-09-02": 36,
-      "2026-09-07": 5
+      "2026-09-07": 116
     }
   },
   {
@@ -35,8 +35,8 @@
     "time": 2038,
     "timeDay": 2735,
     "timeWeek": 3944,
-    "timeMonth": 3379,
-    "timeYear": 2146,
+    "timeMonth": 3417,
+    "timeYear": 2148,
     "dailyMinutesDown": {
       "2025-09-19": 18,
       "2025-11-03": 29,
@@ -62,7 +62,7 @@
     "time": 1094,
     "timeDay": 1013,
     "timeWeek": 1118,
-    "timeMonth": 1151,
+    "timeMonth": 1159,
     "timeYear": 1122,
     "dailyMinutesDown": {}
   },
@@ -80,8 +80,8 @@
     "time": 831,
     "timeDay": 845,
     "timeWeek": 975,
-    "timeMonth": 907,
-    "timeYear": 849,
+    "timeMonth": 918,
+    "timeYear": 850,
     "dailyMinutesDown": {}
   },
   {
@@ -98,7 +98,7 @@
     "time": 1041,
     "timeDay": 876,
     "timeWeek": 1082,
-    "timeMonth": 1105,
+    "timeMonth": 1119,
     "timeYear": 1068,
     "dailyMinutesDown": {}
   }
