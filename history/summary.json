@@ -26,16 +26,16 @@
     "url": "https://www.osdop.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.osdop.org.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "83.83%",
+    "uptimeDay": "86.97%",
     "uptimeWeek": "96.50%",
-    "uptimeMonth": "98.69%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.73%",
-    "time": 2081,
+    "time": 2080,
     "timeDay": 3176,
     "timeWeek": 3022,
-    "timeMonth": 3373,
+    "timeMonth": 3377,
     "timeYear": 2219,
     "dailyMinutesDown": {
       "2025-11-03": 29,
@@ -46,7 +46,8 @@
       "2026-08-26": 17,
       "2026-09-06": 206,
       "2026-09-19": 120,
-      "2026-09-25": 233
+      "2026-09-25": 233,
+      "2026-09-26": 0
     }
   },
   {
