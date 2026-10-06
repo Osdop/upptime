@@ -1,7 +1,7 @@
 url: https://www.osdop.org.ar
-status: down
-code: 500
-responseTime: 670
-lastUpdated: 2026-10-05T01:41:23.340Z
+status: up
+code: 200
+responseTime: 3827
+lastUpdated: 2026-10-06T01:26:04.627Z
 startTime: 2022-02-04T13:31:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
